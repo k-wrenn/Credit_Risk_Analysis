@@ -59,8 +59,9 @@ Software: Python 3.7.9, Jupyter Notebook
 
 ## Summary
 
-Easy Ensemble AdaBoost Classifier is the recommended model for this credit risk analysis, correctly predicting 93% (accuracy of 0.93). The undersampling model is the least recommended as it has the lowest accuracy (0.5), or correctly made predictions only 50% of the time. For comparison of all models, refer to image below:
+
+Among all the models, the low_risk precision is 1, which means there were no incorrect predictions on low-risk credit records. For the high_risk group, the precision is generally low, which means there is a quite high percentage of high-risk records that were incorrectly identified as low-risk. For somparison of all models, refer to image below:
 
 ![Chart](Resources/Chart.PNG)
 
-Among all the models, the low_risk precision is 1, which means there were no incorrect predictions on low-risk credit records. For the high_risk group, the precision is generally low, which means there is a quite high percentage of high-risk records that were incorrectly identified as low-risk.
+Easy Ensemble AdaBoost Classifier is the recommended model for this credit risk analysis, correctly predicting 93% (accuracy of 0.93). The undersampling model is the least recommended as it has the lowest accuracy (0.5), or correctly made predictions only 50% of the time.

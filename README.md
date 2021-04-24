@@ -18,42 +18,42 @@ Software: Python 3.7.9, Jupyter Notebook
 **Naive Random Oversampling**
 
 - Balanced accuracy score: 0.66
-- Imbalanced Classification Report
+- Imbalanced Classification Report:
 
 ![Naive](Resources/Naive.PNG)
 
 **SMOTE Oversampling**
 
 - Balanced accuracy score: 0.63
-- Imbalanced Classification Report
+- Imbalanced Classification Report:
 
 ![SMOTE](Resources/SMOTE.PNG)
 
 **Undersampling**
 
 - Balanced accuracy score: 0.5
-- Imbalanced Classification Report
+- Imbalanced Classification Report:
 
 ![Under](Resources/Under.PNG)
 
 **SMOTEENN**
 
 - Balanced accuracy score: 0.63
-- Imbalanced Classification Report
+- Imbalanced Classification Report:
 
 ![Combo](Resources/Combo.PNG)
 
 **Balanced Random Forest Classifier**
 
 - Balanced accuracy score: 0.75
-- Imbalanced Classification Report
+- Imbalanced Classification Report:
 
 ![Random_Forest](Resources/Random_Forest.PNG)
 
 **Easy Ensemble AdaBoost Classifier**
 
 - Balanced accuracy score: 0.93
-- Imbalanced Classification Report
+- Imbalanced Classification Report:
 
 ![AdaBoost](Resources/AdaBoost.PNG)
 

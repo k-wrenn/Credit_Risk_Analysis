@@ -60,7 +60,7 @@ Software: Python 3.7.9, Jupyter Notebook
 ## Summary
 
 
-Among all the models, the low_risk precision is 1, which means there were no incorrect predictions on low-risk credit records. For the high_risk group, the precision is generally low, which means there is a quite high percentage of high-risk records that were incorrectly identified as low-risk. For somparison of all models, refer to image below:
+Among all the models, the low_risk precision is 1, which means there were no incorrect predictions on low-risk credit records. For the high_risk group, the precision is generally low, which means there is a quite high percentage of high-risk records that were incorrectly identified. For comparison of all models, refer to image below:
 
 ![Chart](Resources/Chart.PNG)
 
